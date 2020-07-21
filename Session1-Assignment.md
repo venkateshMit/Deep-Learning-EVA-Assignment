@@ -1,7 +1,4 @@
-Venkatesh Kulkarni Venkatesh3ae@gmail.com
-Raghavendra raghavendra.manandi@gmail.com
-Ajit Kumar Singh me.ajitkumar@gmail.com
-Sudharshan sjsudharshan16@gmail.com
+Venkatesh Kulkarni
 
 ## What are Channels and Kernels (according to EVA)
 
